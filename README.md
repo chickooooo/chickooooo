@@ -46,3 +46,9 @@ to be added
 🏠 [California House Price Prediction](https://github.com/chickooooo/california_housing_2)<br>
 
 🍷 [Wine Quality Ordinal Regression](https://github.com/chickooooo/wine_quality)
+
+<br>
+
+#### Datasets
+
+🦄 [Top Tech Startups Hiring 2023](https://github.com/chickooooo/top_tech_startups_hiring)
