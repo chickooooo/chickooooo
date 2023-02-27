@@ -1,16 +1,48 @@
-### Hi there 👋
+# About
 
-<!--
-**chickooooo/chickooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Data Science
+Machine Learning
+Deep Learning
+Natural Language Processing
+```
+<br>
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Data Analysis
+💊 [Heart Disease Analysis](https://github.com/chickooooo/heart_disease_analysis)
+
+<br>
+
+#### Machine Learning
+
+🏃‍♂️ [Leaving Customer Prediction](https://github.com/chickooooo/leaving_customer)
+
+<br>
+
+#### Deep Learning
+
+to be added
+
+<br>
+
+#### Natural Language Processing
+
+😩 [Spam Text Message Classification](https://github.com/chickooooo/spam_message_classification)
+
+<br>
+
+#### Big Data
+
+to be added
+
+<br>
+
+#### Kaggle Competitions
+
+🚀 [Spaceship Titanic](https://github.com/chickooooo/space_titanic_2)<br>
+
+🏠 [California House Price Prediction](https://github.com/chickooooo/california_housing_2)<br>
+
+🍷 [Wine Quality Ordinal Regression](https://github.com/chickooooo/wine_quality)
