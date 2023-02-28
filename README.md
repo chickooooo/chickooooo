@@ -23,7 +23,7 @@ Natural Language Processing
 
 #### Deep Learning
 
-to be added
+✏️ [Handwritten Letter Recognition Model](https://github.com/chickooooo/handwritten_letter_recognition)
 
 <br>
 
