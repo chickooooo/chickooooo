@@ -17,13 +17,15 @@ Natural Language Processing
 
 #### Machine Learning
 
-🏃‍♂️ [Leaving Customer Prediction](https://github.com/chickooooo/leaving_customer)
+🏃‍♂️ [Leaving Customer Prediction](https://github.com/chickooooo/leaving_customer)<br>
+
+🛒 [Customer Segmentation Clustering](https://github.com/chickooooo/customer_segmentation)
 
 <br>
 
 #### Deep Learning
 
-✏️ [Handwritten Letter Recognition Model](https://github.com/chickooooo/handwritten_letter_recognition)
+✏️ [Handwritten Letter Recognition](https://github.com/chickooooo/handwritten_letter_recognition)
 
 <br>
 
