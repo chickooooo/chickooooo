@@ -31,13 +31,9 @@ Natural Language Processing
 
 #### Natural Language Processing
 
+🎬 [Movie Review Sentiment Analysis](https://github.com/chickooooo/movie_review_sentiment_analysis)
+
 😩 [Spam Text Message Classification](https://github.com/chickooooo/spam_message_classification)
-
-<br>
-
-#### Big Data
-
-to be added
 
 <br>
 
