@@ -1,11 +1,13 @@
-# About
+# Tech Stack
 
 ```
-Data Science
-Machine Learning
-Deep Learning
-Natural Language Processing
+python        nltk            aws
+jupyter       spacy           sql
+sklearn       hugging face    git
+tensorflow    react           docker
+keras         flask           insomnia
 ```
+
 <br>
 
 ## Projects
