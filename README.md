@@ -1,11 +1,11 @@
 ## Tech Stack
 
 ```
-python        nltk            aws
-jupyter       spacy           sql
-sklearn       hugging face    git
-tensorflow    react           docker
-keras         flask           insomnia
+python          tensorflow      beautiful soup    sql
+jupyter         keras           selenium          git
+matplotlib      nltk            react             docker
+seaborn         spacy           flask
+scikit learn    hugging face    aws
 ```
 
 <br>
@@ -21,6 +21,10 @@ keras         flask           insomnia
 💾 [Flask Server](https://github.com/chickooooo/server)
 
 `Flask` `Python` `Docker`
+
+<br>
+
+![web app](./mr_gif_1.gif)
 
 <br>
 <br>
