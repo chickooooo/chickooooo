@@ -1,4 +1,4 @@
-# Tech Stack
+## Tech Stack
 
 ```
 python        nltk            aws
@@ -8,6 +8,21 @@ tensorflow    react           docker
 keras         flask           insomnia
 ```
 
+<br>
+
+## Web Application
+
+🧰 [React Client](https://github.com/chickooooo/client)
+
+`React` `JavaScript`
+
+<br>
+
+💾 [Flask Server](https://github.com/chickooooo/server)
+
+`Flask` `Python` `Docker`
+
+<br>
 <br>
 
 ## Projects
