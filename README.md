@@ -32,9 +32,16 @@ scikit learn    hugging face    aws
 ## Projects
 
 #### Data Analysis
+
 💊 [Heart Disease Analysis](https://github.com/chickooooo/heart_disease_analysis)
 
 `EDA` `Visualizations`
+
+<br>
+
+📱 [Product Promotion A/B Testing](https://github.com/chickooooo/promotion_a_b_testing)
+
+`A/B Testing` `3 Versions`
 
 <br>
 <br>
