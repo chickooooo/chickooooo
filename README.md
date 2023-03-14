@@ -2,9 +2,9 @@
 
 ```
 python          tensorflow      beautiful soup    sql
-jupyter         keras           selenium          git
-matplotlib      nltk            react             docker
-seaborn         spacy           flask
+jupyter         keras           selenium          mongodb
+matplotlib      nltk            react             git
+seaborn         spacy           flask             docker
 scikit learn    hugging face    aws
 ```
 
@@ -106,8 +106,14 @@ scikit learn    hugging face    aws
 <br>
 <br>
 
-#### Datasets
+#### Others
 
-🦄 [Top Tech Startups Hiring 2023](https://github.com/chickooooo/top_tech_startups_hiring)
+🦄 [Top Tech Startups Hiring 2023 Dataset](https://github.com/chickooooo/top_tech_startups_hiring)
 
 `CSV` `JSON` `Images`
+
+<br>
+
+📦 [Youtube Stats ETL](https://github.com/chickooooo/youtube_stats_etl)
+
+`ETL` `CSV` `JSON` `SQL` `NoSQL`
