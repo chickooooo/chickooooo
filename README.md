@@ -1,8 +1,8 @@
 ## Test Driven Development
 
-<img src="python_logo.png" alt="Python Logo" height="11"/> [Python Test Driven Development](https://github.com/chickooooo/client/python_tdd)
+<img src="python_logo.png" alt="Python Logo" height="11"/> [Python Test Driven Development](https://github.com/chickooooo/python_tdd)
 
-<img src="django_logo.png" alt="Django Logo" height="11"/> [Django Test Driven Development](https://github.com/chickooooo/client/django_tdd)
+<img src="django_logo.png" alt="Django Logo" height="11"/> [Django Test Driven Development](https://github.com/chickooooo/django_tdd)
 
 <br>
 
