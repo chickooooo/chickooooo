@@ -1,8 +1,12 @@
 ## Test Driven Development
 
-<img src="python_logo.png" alt="Python Logo" height="11"/> [Python Test Driven Development](https://github.com/chickooooo/python_tdd)
+[Python TDD](https://github.com/chickooooo/python_tdd)
 
-<img src="django_logo.png" alt="Django Logo" height="11"/> [Django Test Driven Development](https://github.com/chickooooo/django_tdd)
+`Python 3.12` `Pytest` `Sonarqube`
+
+[Django TDD](https://github.com/chickooooo/django_tdd)
+
+`DRF` `Unittest`
 
 <br>
 
